@@ -1,0 +1,65 @@
+#logo-container {
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    margin-top: 30px;
+}
+
+#nav-container {
+    margin-top: 30px;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+
+}
+
+.img-fluid{
+    width: 400px;
+}
+
+.banner{
+	background-image: url(../jquery/imgs/wlpp-3.jpg);
+    padding: 150px 0;
+    margin-top: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+#colecao {
+    margin-top:100px;
+}
+
+.colecao{
+    margin:10px;
+    padding:10px;
+    border: 1px solid rgb(0, 0, 0, 0.1);
+    border-radius:8px;
+    
+}
+
+.card {
+    margin:10px;
+    padding:10px;
+}
+
+#logo-footer-container {
+    display: flex;
+    justify-content: center;
+    margin: 100px 0 30px 0;
+}
+#logo-footer{
+    width: 200px;
+
+}
+
+#navbar-footer, #navbar-footer-2{
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    margin: 10px;
+    text-align: center;
+}
